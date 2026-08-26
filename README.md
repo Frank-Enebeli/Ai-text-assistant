@@ -98,6 +98,4 @@ API rate limits
 Connection errors
 General API errors
 
-### One thing to change
 
-Don't literally leave:
