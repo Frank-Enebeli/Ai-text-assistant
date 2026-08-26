@@ -27,8 +27,9 @@ ai-text-assistant/
 ├── .env.example
 ├── .gitignore
 └── README.md
+```
 
-Installation
+## Installation
 1. Clone the repository
 git clone YOUR_GITHUB_REPOSITORY_URL
 cd ai-text-assistant
@@ -55,7 +56,7 @@ Do not commit the .env file to GitHub.
 
 The repository includes .env.example as a template.
 
-How to Run
+## How to Run
 
 Start the application with:
 
@@ -67,27 +68,29 @@ Model Used
 
 The application uses the OpenAI model configured in app.py.
 
-Example
+## Basic Example
 Input
 
 Artificial intelligence helps computers perform tasks that normally require human intelligence. These tasks include understanding language, recognizing images and making decisions.
 
 Selected Task
 
-Summarize
+---> Summarize
 
 Example Output
 
 Artificial intelligence enables computers to perform human-like tasks such as understanding language, recognizing images and making decisions.
 
-Known Limitations
+## Known Limitations
+
 The application requires an active API connection.
 API usage may incur costs depending on the user's OpenAI account and usage limits.
 The application has a maximum input length of 5,000 characters.
 Generated responses may occasionally contain inaccurate or imperfect information.
 The application does not use conversation history or persistent memory.
 The application does not use RAG or external knowledge sources.
-Error Handling
+
+## Error Handling
 
 The application provides user-friendly messages for common problems such as:
 
