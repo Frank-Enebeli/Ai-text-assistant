@@ -2,7 +2,7 @@
 
 A beginner-friendly Python app that uses an OpenAI language model to transform text. Paste in some text, choose a task, and get the result in a simple web interface.
 
-**[Live demo](https://ai-study-assistant-p6b0.onrender.com/)**
+**[Live demo](https://ai-text-assistant-vm0f.onrender.com/)**
 
 ![AI Text Assistant screenshot](docs/screenshot.png)
 
